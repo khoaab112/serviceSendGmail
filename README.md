@@ -1,1 +1,1 @@
-# serviceSendGmail
+# hth_api_email
